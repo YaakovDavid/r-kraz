@@ -1,15 +1,13 @@
 const audio = [
-  {
-    artist: "Rabbi Kraznianski",
+  { artist: "Rabbi Kraznianski",
     title: "Purim",
     url: "https://s3.amazonaws.com/torahcourses.com/audio/purim.mp3",
-    description: "",
+    description: "Reasons for sending mishloach manos",
   },
-  {
-    artist: "Rabbi Kraznianski",
+  { artist: "Rabbi Kraznianski",
     title: "Shemini",
     url: "https://s3.amazonaws.com/torahcourses.com/audio/shemene.mp3",
-    description: "",
+    description: "Why where Aharon's children punished if they where under 20",
   },
   {
     artist: "Rabbi Kraznianski",

@@ -1,4 +1,28 @@
 const audio = [
+  {
+    artist: "Rabbi Kraznianski",
+    title: "Tazria & Metzora",
+    url: "https://s3.amazonaws.com/torahcourses.com/audio/tazria-metzora1.mp3",
+    description: "",
+  },
+  {
+    artist: "Rabbi Kraznianski",
+    title: "Tazria & Metzora",
+    url: "https://s3.amazonaws.com/torahcourses.com/audio/tazria-metzora2.mp3",
+    description: "",
+  },
+  {
+    artist: "Rabbi Kraznianski",
+    title: "Pesach",
+    url: "https://s3.amazonaws.com/torahcourses.com/audio/pesach.mp3",
+    description: "",
+  },
+  {
+    artist: "Rabbi Kraznianski",
+    title: "Behar",
+    url: "https://s3.amazonaws.com/torahcourses.com/audio/behar.mp3",
+    description: "",
+  },
   { artist: "Rabbi Kraznianski",
     title: "Purim",
     url: "https://s3.amazonaws.com/torahcourses.com/audio/purim.mp3",

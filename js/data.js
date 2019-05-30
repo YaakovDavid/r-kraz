@@ -1,7 +1,7 @@
 const audio = [
   {
     artist: "Rabbi Kraznianski",
-    title: "bechukoisai",
+    title: "Bechukoisai",
     url: "https://s3.amazonaws.com/torahcourses.com/audio/bechukoisai.mp3",
     description: "",
   },

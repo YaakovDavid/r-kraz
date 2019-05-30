@@ -1,6 +1,12 @@
 const audio = [
   {
     artist: "Rabbi Kraznianski",
+    title: "bechukoisai",
+    url: "https://s3.amazonaws.com/torahcourses.com/audio/bechukoisai.mp3",
+    description: "",
+  },
+  {
+    artist: "Rabbi Kraznianski",
     title: "Tazria & Metzora",
     url: "https://s3.amazonaws.com/torahcourses.com/audio/tazria-metzora1.mp3",
     description: "",

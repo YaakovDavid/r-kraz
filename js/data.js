@@ -1,6 +1,18 @@
 const audio = [
   {
     artist: "Rabbi Kraznianski",
+    title: "Shavous",
+    url: "https://s3.amazonaws.com/torahcourses.com/audio/shavous.mp3",
+    description: "Why is it costomary to eat dairy on shavous",
+  },
+  {
+    artist: "Rabbi Kraznianski",
+    title: "Bamidbar - Shavous",
+    url: "https://s3.amazonaws.com/torahcourses.com/audio/bamidbar-shavous.mp3",
+    description: "Why didn't Ben Azzai need to fulfill the mitzvah of having children",
+  },
+  {
+    artist: "Rabbi Kraznianski",
     title: "Bechukoisai",
     url: "https://s3.amazonaws.com/torahcourses.com/audio/bechukoisai.mp3",
     description: "I make plans to go places but I always end up at the study hall, Dovid Hamelech said to Hashem",
@@ -27,7 +39,7 @@ const audio = [
     artist: "Rabbi Kraznianski",
     title: "Behar",
     url: "https://s3.amazonaws.com/torahcourses.com/audio/behar.mp3",
-    description: "Understanding אונס with accountability ",
+    description: "Understanding אונס with accountability",
   },
   { artist: "Rabbi Kraznianski",
     title: "Purim",

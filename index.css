@@ -178,3 +178,9 @@ footer, header{
 #artist{
   color: rgb(170, 165, 165);
 }
+
+.tags {
+  display: none;
+  max-height: 0px;
+  overflow: hidden;
+}

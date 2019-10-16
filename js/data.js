@@ -1,5 +1,47 @@
 const audio = [
   {
+    artist: "Mendel Presscott",
+    title: "Sfardim and Ashkazim",
+    url: "audio/presscott/thedifferencebetweenSfardimandashkaziminthereapproachtomachlokes.mp3",
+    description: "The difference between Sfardim and Ashkazim in their approach to machlokes",
+    tags: "History",
+  },
+  {
+    artist: "Mendel Presscott",
+    title: "Early Rishonim _part 1",
+    url: "audio/presscott/earlySpanishRishonimfourcaptives.mp3",
+    description: "Early Spanish Rishonim, the four captive's",
+    tags: "History",
+  },
+  {
+    artist: "Mendel Presscott",
+    title: "Early Rishonim _part 2",
+    url: "audio/presscott/theearlyRishonimpart2.mp3",
+    description: " ",
+    tags: "History",
+  },
+  {
+    artist: "Mendel Presscott",
+    title: "The Baalei HaTosfos",
+    url: "audio/presscott/TheBaaleiHaTosfos.mp3",
+    description: " ",
+    tags: "History Baalei HaTosfos",
+  },
+  {
+    artist: "Mendel Presscott",
+    title: "Rashi",
+    url: "audio/presscott/Rashi.mp3",
+    description: " ",
+    tags: "History",
+  },
+  {
+    artist: "Mendel Presscott",
+    title: "The Gaonim",
+    url: "audio/presscott/historyofthegaonim.mp3",
+    description: "History of the Gaonim",
+    tags: "History",
+  },
+  {
     artist: "Rabbi Kraznianski",
     title: "Shavous",
     url: "audio/shavous.mp3",

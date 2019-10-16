@@ -1,6 +1,13 @@
 const audio = [
   {
     artist: "Mendel Presscott",
+    title: "The Baal Shem Tov _part 1",
+    url: "audio/presscott/theBaalshem-tovpart1.mp3",
+    description: "",
+    tags: "History Chassidim",
+  },
+  {
+    artist: "Mendel Presscott",
     title: "Sfardim and Ashkazim",
     url: "audio/presscott/thedifferencebetweenSfardimandashkaziminthereapproachtomachlokes.mp3",
     description: "The difference between Sfardim and Ashkazim in their approach to machlokes",
@@ -167,9 +174,9 @@ const audio = [
   },
   {
     artist: "Rabbi Kraznianski",
-    title: "succos",
+    title: "Sukkos",
     url: "audio/Rabbi_kraz_suchos.mp3",
-    description: "Were the Jews in the desert surrounded by clouds or actual Succos",
+    description: "Were the Jews in the desert surrounded by clouds or actual Sukkos",
     tags: "Holidays",
   },
   {

@@ -3,8 +3,15 @@ const audio = [
     artist: "Mendel Presscott",
     title: "The Baal Shem Tov _part 1",
     url: "audio/presscott/theBaalshem-tovpart1.mp3",
-    description: "",
+    description: "Historical context in which the Ba'al Shem Tov entered Jewish history",
     tags: "History Chassidim",
+  },
+  {
+    artist: "Mendel Presscott",
+    title: "The Baal Shem Tov _part 2",
+    url: "audio/presscott/The-Ba'al-shem-tov-part2.mp3",
+    description: "Historical context in which the Ba'al Shem Tov entered Jewish history",
+    tags: "History Chassidim Miracles",
   },
   {
     artist: "Mendel Presscott",
@@ -31,14 +38,14 @@ const audio = [
     artist: "Mendel Presscott",
     title: "The Baalei HaTosfos",
     url: "audio/presscott/TheBaaleiHaTosfos.mp3",
-    description: " ",
+    description: "Discussion of the Mesorah - The Ba'alei HaTosfos",
     tags: "History Baalei HaTosfos",
   },
   {
     artist: "Mendel Presscott",
     title: "Rashi",
     url: "audio/presscott/Rashi.mp3",
-    description: " ",
+    description: "Learn about the development and thought process that went into the making of a classic Torah commentary",
     tags: "History",
   },
   {

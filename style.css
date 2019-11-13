@@ -42,10 +42,8 @@ header {
   list-style: none;
   margin: 0;
   padding: 0;
-
   display: grid;
   grid-gap: 15px;
-  /* grid-template-columns: repeat(3, 1fr); */
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
 
 }
@@ -61,12 +59,9 @@ li {
 
 #title {
   font-size: xx-large;
-  /* text-align: center; */
   color: rgb(99, 85, 7);
   text-shadow: 0.1px 0.1px #bfbcbc;
   font-family: 'Roboto Slab', serif;
-  /* color: rgb(179, 176, 176);
-  text-shadow: 0.1px 0.1px #8f8f8f; */
 }
 
 #artist{
@@ -74,9 +69,10 @@ li {
   text-align: center;
 }
 
-audio{
+audio {
   border-radius: 15px;
   width: 100%;
+  outline: none;
 }
 
 .description {

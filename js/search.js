@@ -27,3 +27,102 @@ function search() {
     }
   }
 }
+
+document.getElementById("parshaClicked").onclick = function () {
+  document.getElementById("allClicked").classList.remove("selected-background");
+  document.getElementById("halachaClicked").classList.remove("selected-background");
+  document.getElementById("historyClicked").classList.remove("selected-background");
+
+  document.getElementById("parshaClicked").classList.add("selected-background");
+  var tags = document.getElementsByClassName("tags");
+  var input = "parsha"
+  var filter = input.toUpperCase();
+  var ul = document.getElementById("myUL");
+  var li = ul.getElementsByTagName("li");
+
+  for (i = 0; i < li.length; i++) {
+    tags = li[i].getElementsByClassName("tags")[0];
+    tagsValue = tags.textContent || tags.innerText;
+
+    if (tagsValue.toUpperCase().indexOf(filter) > -1 ) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+};
+
+document.getElementById("historyClicked").onclick = function () {
+  document.getElementById("allClicked").classList.remove("selected-background");
+  document.getElementById("parshaClicked").classList.remove("selected-background");
+  document.getElementById("halachaClicked").classList.remove("selected-background");
+  document.getElementById("historyClicked").classList.add("selected-background");
+
+  var tags = document.getElementsByClassName("tags");
+  var tags = document.getElementsByClassName("tags");
+  var tags = document.getElementsByClassName("tags");
+  var tags = document.getElementsByClassName("tags");
+  var input = "history"
+  var filter = input.toUpperCase();
+  var ul = document.getElementById("myUL");
+  var li = ul.getElementsByTagName("li");
+
+  for (i = 0; i < li.length; i++) {
+    tags = li[i].getElementsByClassName("tags")[0];
+    tagsValue = tags.textContent || tags.innerText;
+
+    if (tagsValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+};
+
+document.getElementById("halachaClicked").onclick = function () {
+  document.getElementById("allClicked").classList.remove("selected-background");
+  document.getElementById("parshaClicked").classList.remove("selected-background");
+  document.getElementById("historyClicked").classList.remove("selected-background");
+
+  document.getElementById("halachaClicked").classList.add("selected-background");
+  var tags = document.getElementsByClassName("tags");
+  var input = "halacha"
+  var filter = input.toUpperCase();
+  var ul = document.getElementById("myUL");
+  var li = ul.getElementsByTagName("li");
+
+  for (i = 0; i < li.length; i++) {
+    tags = li[i].getElementsByClassName("tags")[0];
+    tagsValue = tags.textContent || tags.innerText;
+
+    if (tagsValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+};
+
+document.getElementById("allClicked").onclick = function () {
+  document.getElementById("parshaClicked").classList.remove("selected-background");
+  document.getElementById("halachaClicked").classList.remove("selected-background");
+  document.getElementById("historyClicked").classList.remove("selected-background");
+
+  document.getElementById("allClicked").classList.add("selected-background");
+  var tags = document.getElementsByClassName("tags");
+  var input = ""
+  var filter = input.toUpperCase();
+  var ul = document.getElementById("myUL");
+  var li = ul.getElementsByTagName("li");
+
+  for (i = 0; i < li.length; i++) {
+    tags = li[i].getElementsByClassName("tags")[0];
+    tagsValue = tags.textContent || tags.innerText;
+
+    if (tagsValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+};

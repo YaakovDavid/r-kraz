@@ -3,10 +3,11 @@ let strArticles = "";
 
 audio.forEach((x) => {
 
-  strArticles += '<article">' +
+  strArticles +=
+  // '<article">' +
     '<li>' +
     '<div class="cont">' +
-    '<h3>' + x.title + '</h3>' +
+    '<h3 id="title">' + x.title + '</h3>' +
     '<time id="artist">' + 'By: ' + x.artist + '</time>' +
     '</div>' +
     '<div class="description">' +
@@ -18,8 +19,9 @@ audio.forEach((x) => {
     '<source id="url" src="' + x.url + '" type="audio/mp3">' +
     '</audio>' +
 
-    '</li>' +
-    '</article>';
+    '</li>'
+    // +
+    // '</article>';
 });
 
 container.innerHTML = strArticles;

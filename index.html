@@ -6,30 +6,52 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Torah Courses</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
   <link rel="icon" type="image/png" href="https://s3.amazonaws.com/torahcourses.com/images/Screen+Shot+2019-02-08+at+1.54.51+AM.png">
-  <link rel="stylesheet" type="text/css" media="screen" href="index.css" />
+  <!-- <link rel="stylesheet" type="text/css" media="screen" href="index.css" /> -->
+  <link rel="stylesheet" href="style.css">
 </head>
 
+<body>
+
+  <div class="wrapper">
+    <!-- <header class="main-head">TorahCourses.com</header>
+    <nav class="main-nav">
+
+      <search>
+        <form id="content">
+          <input type="text" name="input" id="myInput" class="input" onkeyup="search()" placeholder="Search by name or topic..." title="Type in a name">
+        </form>
+      </search> -->
+
+      <header class="sec-one">
+        <form id="search-form">
+          <input type="text" name="input" id="myInput" class="input" onkeyup="search()"
+            placeholder="Search by name or topic..." title="Type in a name">
+        </form>
+      </header>
 
 
-<div class="wrapper">
-  <header class="main-head">TorahCourses.com</header>
-  <nav class="main-nav">
+      <div class="band">
+        <ul id="myUL">
+        </ul>
+      </div>
+      </main>
+    </nav>
 
-    <search>
-      <form id="content">
-        <input type="text" name="input" id="myInput" class="input" onkeyup="search()" placeholder="Search by name or topic..." title="Type in a name">
-      </form>
-    </search>
-    <div class="band">
-      <ul id="myUL">
-      </ul>
+  </div>
+
+  <footer class="footer">
+    <!-- <a href="https://www.instagram.com/321motion/" class="fa fab fa-instagram"></a> -->
+    <div id="ftr-txt">
+      <p>Hope you learned something new 🙂!</p>
     </div>
-    </main>
-  </nav>
+  </footer>
 
-  <footer class="main-footer">Hope you learned something new 🙂!</footer>
-</div>
+  <!-- <footer class="main-footer">Hope you learned something new 🙂!</footer> -->
+</body>
+
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>

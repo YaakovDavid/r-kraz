@@ -126,3 +126,10 @@ document.getElementById("allClicked").onclick = function () {
     }
   }
 };
+
+window.onload = function () {
+
+  document.getElementById("allClicked").classList.add("selected-background");
+}
+
+

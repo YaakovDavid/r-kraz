@@ -1,23 +1,30 @@
 const audio = [
   {
+    artist: "Rabbi Krasnjanski",
+    title: "The four captives",
+    url: "audio/kraz/history.four.captives.mp3",
+    description: "The four captives and the spread of Torah from Bavel to the rest of the world",
+    tags: "History ",
+  },
+  {
     artist: "Mendel Presscott",
-    title: "Concentration camps_1",
+    title: "Concentration",
     url: "audio/presscott/making a blessing upon seeing a concentration camp.mp3",
     description: "Making a blessing upon seeing a concentration camp",
     tags: "Halacha",
   },
   {
     artist: "Mendel Presscott",
-    title: "Concentration camps_2",
+    title: "Seeing a friend_1",
     url: "audio/presscott/making a bracha upon seeing a friend part 1.mp3",
-    description: "Making a blessing upon seeing a concentration camp",
+    description: "Making a blessing upon seeing a friend",
     tags: "Halacha",
   },
   {
     artist: "Mendel Presscott",
-    title: "Concentration camps_3",
+    title: "Seeing a friend_2",
     url: "audio/presscott/making a bracha upon seeing a friend part 2.mp3",
-    description: "Making a blessing upon seeing a concentration camp",
+    description: "Making a blessing upon seeing a friend",
     tags: "Halacha",
   },
 

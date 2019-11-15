@@ -2,70 +2,52 @@
 <html>
 
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152632092-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-152632092-1');
-  </script>
-
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Torah Courses</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" type="image/png" href="icon.png" />
+
+  <!-- <link rel="canonical" href="https://{yaakovdavid}.github.io/{r-kraz}/" /> -->
+  <link rel="shortcut icon" type="image/png" href="icon2.png" />
   <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-  <link rel="icon" type="image/png" href="https://s3.amazonaws.com/torahcourses.com/images/Screen+Shot+2019-02-08+at+1.54.51+AM.png">
-  <!-- <link rel="stylesheet" type="text/css" media="screen" href="index.css" /> -->
   <link rel="stylesheet" href="style.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152632092-1"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'UA-152632092-1');</script>
 </head>
 
 <body>
-
   <div class="wrapper">
-
-      <header class="sec-one">
-        <form id="search-form">
-          <input type="text" name="input" id="myInput" class="input" onkeyup="search()"
-            placeholder="Filter by name, topic, description, authors ..." title="Type in a name">
-        </form>
-        <div class="grid-container">
-          <button id="allClicked" class="grid-item">All</button>
-          <button id="parshaClicked" class="grid-item">Parsha</button>
-          <button id="holidaysClicked" class="grid-item">Holidays</button>
-          <button id="historyClicked" class="grid-item">History</button>
-          <button id="halachaClicked" class="grid-item">Halacha</button>
-        </div>
-      </header>
-
-
-      <div class="band">
-        <ul id="myUL">
-        </ul>
-      </div>
-      </main>
+    <header class="sec-one">
+      <form id="search-form"> <input type="text" name="input" id="myInput" class="input" onkeyup="search()"
+          placeholder="Filter by name, topic, description, authors ..." title="Type in a name"></form>
+      <div class="grid-container"> <button id="allClicked" class="grid-item">All</button> <button id="parshaClicked"
+          class="grid-item">Parsha</button> <button id="holidaysClicked" class="grid-item">Holidays</button> <button
+          id="historyClicked" class="grid-item">History</button> <button id="halachaClicked"
+          class="grid-item">Halacha</button></div>
+    </header>
+    <div class="band">
+      <ul id="myUL"></ul>
+    </div>
+    </main>
     </nav>
-
   </div>
-
   <footer class="footer">
     <div id="ftr-txt">
       <p>Hope you learned something new 🙂!</p>
     </div>
   </footer>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script async src="./js/data.js"></script>
+<script async src="./js/insert.js"></script>
+<script async src="./js/search.js"></script>
 
-</body>
-
-
-<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
-<script src="./js/data.js"></script>
-<script src="./js/insert.js"></script>
-<script src="./js/search.js"></script>
+<!-- <script>
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.register('/{r-kraz}/sw.js', { scope: '/{r-kraz}/' })
+  }
+</script> -->
 </body>
 
 </html>

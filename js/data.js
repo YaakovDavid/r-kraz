@@ -1,6 +1,13 @@
 const audio = [
   {
     artist: "Rabbi Krasnjanski",
+    title: "The atrocities of Sedom",
+    url: "audio/kraz/Sedom.mp3",
+    description: "Similarities between Sedom and an Ir Hanedachas (condemned city)",
+    tags: "Parsha sodom and gomorrah lot",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
     title: "The four captives",
     url: "audio/kraz/history.four.captives.mp3",
     description: "The four captives and the spread of Torah from Bavel to the rest of the world",
@@ -8,21 +15,21 @@ const audio = [
   },
   {
     artist: "Mendel Presscott",
-    title: "Concentration",
+    title: "Seeing a concentration camp",
     url: "audio/presscott/making a blessing upon seeing a concentration camp.mp3",
     description: "Making a blessing upon seeing a concentration camp",
     tags: "Halacha",
   },
   {
     artist: "Mendel Presscott",
-    title: "Seeing a friend_1",
+    title: "Seeing a friend (1)",
     url: "audio/presscott/making a bracha upon seeing a friend part 1.mp3",
     description: "Making a blessing upon seeing a friend",
     tags: "Halacha",
   },
   {
     artist: "Mendel Presscott",
-    title: "Seeing a friend_2",
+    title: "Seeing a friend (2)",
     url: "audio/presscott/making a bracha upon seeing a friend part 2.mp3",
     description: "Making a blessing upon seeing a friend",
     tags: "Halacha",
@@ -30,14 +37,14 @@ const audio = [
 
   {
     artist: "Mendel Presscott",
-    title: "Kohen & Medical School_1",
+    title: "Kohen & Medical School (1)",
     url: "audio/presscott/may a Cohn attend medical school 1.mp3",
     description: "May a Kohen attend medical school",
     tags: "Halacha",
   },
   {
     artist: "Mendel Presscott",
-    title: "Kohen & Medical School_2",
+    title: "Kohen & Medical School (2)",
     url: "audio/presscott/may a Cohn attend medical school 2.mp3",
     description: "May a Kohen attend medical school",
     tags: "Halacha",
@@ -53,7 +60,7 @@ const audio = [
 
   {
     artist: "Mendel Presscott",
-    title: "Mitzvah Yisuv E.Y. _1",
+    title: "Mitzvah Yisuv E.Y. (1)",
     url: "audio/presscott/mitzvah yisuv ey part 1.3gp.mp3",
     description: "",
     tags: "Halacha",
@@ -61,7 +68,7 @@ const audio = [
 
   {
     artist: "Mendel Presscott",
-    title: "Mitzvah Yisuv E.Y. _2",
+    title: "Mitzvah Yisuv E.Y. (2)",
     url: "audio/presscott/mitzvahs yisuv ey part 2.3gp.mp3",
     description: "",
     tags: "Halacha",
@@ -69,21 +76,21 @@ const audio = [
 
   {
     artist: "Mendel Presscott",
-    title: "Holocaust Responsa _1",
+    title: "Holocaust Responsa (1)",
     url: "audio/presscott/responsa from the Holocaust part 1.3gp.mp3",
     description: "",
     tags: "Halacha",
   },
   {
     artist: "Mendel Presscott",
-    title: "Holocaust Responsa _2",
+    title: "Holocaust Responsa (2)",
     url: "audio/presscott/responsa from the Holocaust part 2 suicide part 1.mp3",
     description: "",
     tags: "Halacha",
   },
   {
     artist: "Mendel Presscott",
-    title: "Holocaust Responsa _3",
+    title: "Holocaust Responsa (3)",
     url: "audio/presscott/responsa from the Holocaust part 3 suicide part 2.mp3",
     description: "",
     tags: "Halacha",
@@ -108,21 +115,21 @@ const audio = [
 
   {
     artist: "Mendel Presscott",
-    title: "Living in Egypt _1",
+    title: "Living in Egypt (1)",
     url: "audio/presscott/living in Egypt part 1.mp3",
     description: "",
     tags: "Halacha",
   },
   {
     artist: "Mendel Presscott",
-    title: "Living in Egypt _2",
+    title: "Living in Egypt (2)",
     url: "audio/presscott/living in Egypt part 2.mp3",
     description: "",
     tags: "Halacha",
   },
   {
     artist: "Mendel Presscott",
-    title: "Living in Egypt _3",
+    title: "Living in Egypt (3)",
     url: "audio/presscott/living in Egypt part 3.mp3",
     description: "",
     tags: "Halacha",
@@ -181,7 +188,7 @@ const audio = [
   },
   {
     artist: "Mendel Presscott",
-    title: "3-d printing _1",
+    title: "3-d printing  (1)",
     url: "audio/presscott/3-d printing in halacha part 1.mp3",
     description: "3-d printing in Halacha",
     tags: "Halacha",
@@ -209,14 +216,14 @@ const audio = [
   },
   {
     artist: "Mendel Presscott",
-    title: "The Baal Shem Tov _1",
+    title: "The Baal Shem Tov (1)",
     url: "audio/presscott/theBaalshem-tovpart1.mp3",
     description: "Historical context in which the Ba'al Shem Tov entered Jewish history",
     tags: "History Chassidim",
   },
   {
     artist: "Mendel Presscott",
-    title: "The Baal Shem Tov _2",
+    title: "The Baal Shem Tov (2)",
     url: "audio/presscott/The-Ba'al-shem-tov-part2.mp3",
     description: "Historical context in which the Ba'al Shem Tov entered Jewish history",
     tags: "History Chassidim Miracles",
@@ -230,14 +237,14 @@ const audio = [
   },
   {
     artist: "Mendel Presscott",
-    title: "Early Rishonim _1",
+    title: "Early Rishonim (1)",
     url: "audio/presscott/earlySpanishRishonimfourcaptives.mp3",
     description: "Early Spanish Rishonim, the four captive's",
     tags: "History",
   },
   {
     artist: "Mendel Presscott",
-    title: "Early Rishonim _2",
+    title: "Early Rishonim (2)",
     url: "audio/presscott/theearlyRishonimpart2.mp3",
     description: " ",
     tags: "History",
@@ -286,14 +293,14 @@ const audio = [
   },
   {
     artist: "Rabbi Krasnjanski",
-    title: "Tazria & Metzora _1",
+    title: "Tazria & Metzora (1)",
     url: "audio/kraz/tazria-metzora1.mp3",
     description: "What's the logic that the listener to lashun harah gets a greater punishment than the teller?",
     tags: "Loshan Harah parsha",
   },
   {
     artist: "Rabbi Krasnjanski",
-    title: "Tazria & Metzora _2",
+    title: "Tazria & Metzora (2)",
     url: "audio/kraz/tazria-metzora2.mp3",
     description: "What's the logic that the listener to lashun harah gets a greater punishment than the teller?",
     tags: "Loshan Harah parsha",

@@ -124,8 +124,10 @@ audio {
   outline: none
 }
 .selected-background {
-  background-color: rgb(201, 198, 198);
+  /* background-color: rgb(201, 198, 198); */
+  background-color: white;
   color: black;
+  color: #153131
 }
 /* QUICK TAG SEARCH */
 

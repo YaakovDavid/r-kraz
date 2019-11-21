@@ -1,6 +1,13 @@
 const audio = [
   {
     artist: "Rabbi Krasnjanski",
+    title: "Cherim on learing philosophy",
+    url: "audio/kraz/ChachmasChetzunes.mp3",
+    description: "",
+    tags: "History Reshonim Rashba Rambam Ramban Rabbenu Yona Ra’ah Raah Aharon halevi",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
     title: "Parshas Vayera - The atrocities of Sedom",
     url: "audio/kraz/Sedom.mp3",
     description: "Similarities between Sedom and an Ir Hanedachas (condemned city)",
@@ -11,7 +18,7 @@ const audio = [
     title: "The four captives",
     url: "audio/kraz/history.four.captives.mp3",
     description: "The four captives and the spread of Torah from Bavel to the rest of the world",
-    tags: "History ",
+    tags: "History Four captives Bulan Kuzari Kazar kingdom Rav hai Goan Rav Yosef Stanish Goanim Shmuel hanagid reshonim",
   },
   {
     artist: "Mendel Presscott",

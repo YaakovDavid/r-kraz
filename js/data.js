@@ -1,5 +1,12 @@
 const audio = [
   {
+    artist: "Mendel Presscott",
+    title: "Rav Simcha Bunim of Pesischa",
+    url: "audio/presscott/simcha-bunim.mp3",
+    description: "His early life before become a Rebbe",
+    tags: "History",
+  },
+  {
     artist: "Rabbi Krasnjanski",
     title: "Cherim on learing philosophy",
     url: "audio/kraz/ChachmasChetzunes.mp3",

@@ -1,5 +1,12 @@
 const audio = [
   {
+    artist: "Rabbi Krasnjanski",
+    title: "Parshas Toldos - Yaakov & Esuv",
+    url: "audio/kraz/toldos.mp3",
+    description: "Does bechoros (first born) follow the conception or birth",
+    tags: "Parsha Vilna Goan Moses Mendelson tzemach tedek alter rebbe shloma ager yosef dina taz rabbenu gersun",
+  },
+  {
     artist: "Mendel Presscott",
     title: "Rav Simcha Bunim of Pesischa",
     url: "audio/presscott/simcha-bunim.mp3",

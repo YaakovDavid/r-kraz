@@ -181,7 +181,7 @@ const audio = [
     artist: "Mendel Presscott",
     title: "Golam & A.I.",
     url: "audio/presscott/Golam.A.I.mp3.mp3",
-    description: "Can a Golam or A.I. for a minyan",
+    description: "Can a Golam or A.I. be counted for a minyan",
     tags: "Halacha",
   },
   {

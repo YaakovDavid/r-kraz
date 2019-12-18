@@ -12,10 +12,10 @@ const audio = [
     url: "audio/presscott/simcha-bunim.mp3",
     description: "His early life before become a Rebbe",
     tags: "History",
-  },
+  }
   {
     artist: "Rabbi Krasnjanski",
-    title: "Cherim on learing philosophy",
+    title: "Cherim on learning philosophy",
     url: "audio/kraz/ChachmasChetzunes.mp3",
     description: "",
     tags: "History Reshonim Rashba Rambam Ramban Rabbenu Yona Ra’ah Raah Aharon halevi",

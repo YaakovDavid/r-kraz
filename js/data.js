@@ -12,7 +12,7 @@ const audio = [
     url: "audio/presscott/simcha-bunim.mp3",
     description: "His early life before become a Rebbe",
     tags: "History",
-  }
+  },
   {
     artist: "Rabbi Krasnjanski",
     title: "Cherim on learning philosophy",

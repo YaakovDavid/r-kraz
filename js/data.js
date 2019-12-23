@@ -4,7 +4,7 @@ const audio = [
     title: "Parshas Vayishlach",
     url: "audio/kraz/vayishlach.mp3",
     description: "Shimon and Levi massacred the city of Shechem, what was their justification and what was Yaakov's thoughts on the matter",
-    tags: "Parsha Dina Gerim Gerrus",
+    tags: "Parsha Dina Gerim Gerrus converts converting",
   },
   {
     artist: "Rabbi Krasnjanski",

@@ -3,7 +3,7 @@ const audio = [
     artist: "Rabbi Krasnjanski",
     title: "Parshas Vayishlach",
     url: "audio/kraz/vayishlach.mp3",
-    description: "Simon and Levi massacred the city of Shechem, what was their justification and what was Yaakov's thoughts on the matter",
+    description: "Shimon and Levi massacred the city of Shechem, what was their justification and what was Yaakov's thoughts on the matter",
     tags: "Parsha Dina Gerim Gerrus",
   },
   {

@@ -10,7 +10,7 @@ const audio = [
     artist: "Rabbi Krasnjanski",
     title: "Parshas Toldos - Yaakov & Esuv",
     url: "audio/kraz/toldos.mp3",
-    description: "Does bechoros (first born) follow the conception or birth",
+    description: "Does bechoros (first born) follow conception or birth",
     tags: "Parsha Vilna Goan Moses Mendelson tzemach tedek alter rebbe shloma ager yosef dina taz rabbenu gersun",
   },
   {

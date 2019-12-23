@@ -1,6 +1,13 @@
 const audio = [
   {
     artist: "Rabbi Krasnjanski",
+    title: "Parshas Vayishlach",
+    url: "audio/kraz/vayishlach.mp3",
+    description: "Simon and Levi massacred the city of Shechem, what was their justification and what was Yaakov's thoughts on the matter",
+    tags: "Parsha Dina Gerim Gerrus",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
     title: "Parshas Toldos - Yaakov & Esuv",
     url: "audio/kraz/toldos.mp3",
     description: "Does bechoros (first born) follow the conception or birth",

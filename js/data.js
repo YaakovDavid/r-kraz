@@ -1,6 +1,13 @@
 const audio = [
   {
     artist: "Rabbi Krasnjanski",
+    title: "Parshas Vayeshev",
+    url: "audio/kraz/vayeshev-2020.mp3",
+    description: "The Shevatims rational for selling Yosef",
+    tags: "Parsha Vayeishev Vayesheb Joseph The 10 Martyrs Asarah Harugay Malchut Malchus",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
     title: "Parshas Vayishlach",
     url: "audio/kraz/vayishlach.mp3",
     description: "Shimon and Levi massacred the city of Shechem, what was their justification and what was Yaakov's thoughts on the matter",

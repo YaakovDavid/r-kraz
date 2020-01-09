@@ -1,6 +1,13 @@
 const audio = [
   {
     artist: "Rabbi Krasnjanski",
+    title: "Parshas Vayechi",
+    url: "audio/kraz/vayechi-2020.mp3",
+    description: "The embalming of Yaakov and Yosef",
+    tags: "Parsha Vayechi Jacob Joseph",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
     title: "Parshas Vayeshev",
     url: "audio/kraz/vayeshev-2020.mp3",
     description: "The Shevatims rational for selling Yosef",

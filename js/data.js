@@ -1,6 +1,13 @@
 const audio = [
   {
     artist: "Rabbi Krasnjanski",
+    title: "Parshas shemos",
+    url: "audio/kraz/shmos2020.mp3",
+    description: "Was Moshe Born a Tzaddik or did he have to work on himself",
+    tags: "Parsha shemos shmos Shemot Moshe Moses Arabia King Palm Reading Face Reading",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
     title: "Parshas Vayechi",
     url: "audio/kraz/vayechi-2020.mp3",
     description: "The embalming of Yaakov and Yosef",

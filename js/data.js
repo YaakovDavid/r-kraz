@@ -1,7 +1,14 @@
 const audio = [
   {
     artist: "Rabbi Krasnjanski",
-    title: "Parshas shemos",
+    title: "Parshas Bo",
+    url: "audio/kraz/bo-2020.mp3",
+    description: "The children of Efraim who left Egypt 30 years early and were all killed",
+    tags: "Parsha bo parshat bo shevet efraim plishtim",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
+    title: "Parshas Shemos",
     url: "audio/kraz/shmos2020.mp3",
     description: "Was Moshe Born a Tzaddik or did he have to work on himself",
     tags: "Parsha shemos shmos Shemot Moshe Moses Arabia King Palm Reading Face Reading",

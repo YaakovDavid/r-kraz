@@ -1,6 +1,20 @@
 const audio = [
   {
     artist: "Rabbi Krasnjanski",
+    title: "The Backstory of Purim",
+    url: "audio/kraz/backstory of purim 2020.mp3",
+    description: "The events leading up to the the story of Purim",
+    tags: "History Purim Holidays nevuchadnetzar achashverush",
+  },
+  {
+    artist: "Mendel Presscott",
+    title: "Living In Egypt",
+    url: "audio/presscott/living in egypt.mp3",
+    description: "How was the Rambam and other great sages allowed to live in Egypt",
+    tags: "Halacha",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
     title: "Parshas Bo",
     url: "audio/kraz/bo-2020.mp3",
     description: "The children of Efraim who left Egypt 30 years early and were all killed",

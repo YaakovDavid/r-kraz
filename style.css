@@ -25,6 +25,7 @@ header {
   width: 85%;
   padding: 10px;
   font-size: 20px;
+  max-width: 1024px;
 }
 /* HEADER */
 
@@ -34,6 +35,8 @@ header {
   width: 95%;
   margin: 0 auto;
   min-height: 55vh;
+  max-width: 1024px;
+  /* margin: 0 auto; */
 }
 
 .band >ul {
@@ -111,6 +114,7 @@ audio {
   width: 80%;
   grid-template-columns: auto auto auto auto auto;
   margin: 0 auto;
+  max-width: 1024px;
 }
 .grid-item {
   margin-top: 2vh;

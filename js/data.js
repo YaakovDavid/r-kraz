@@ -1,6 +1,41 @@
 const audio = [
   {
     artist: "Rabbi Krasnjanski",
+    title: "Pesach Matzah & Maror",
+    url: "audio/kraz/Whoever doesn't mention pesach matzah and morar on pesach.mp3",
+    description: "Whoever dosn't mention pesach matzah and maror on Pesach hasn't fulfilled their obligation",
+    tags: "Holidays Pesach Mitzrayim pesach matzah maror",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
+    title: "Remember Leaving Mitzrayim",
+    url: "audio/kraz/y2mate_com_Rabbi_Mendel_Krasnjanski_The_Age_Old_Puzzling_Rambam.mp3",
+    description: " ",
+    tags: "Holidays Pesach Mitzrayim",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
+    title: "Thanking Hashem",
+    url: "audio/kraz/y2mate_com_Rabbi_Mendel_Krasnjanski_Magid_The_Huge_Thank_You_5nmDbtq24oM.mp3",
+    description: "The theme of the seder night is to thank Hashem",
+    tags: "Holidays Pesach",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
+    title: "Leaving Mitzrayim",
+    url: "audio/kraz/y2mate_com_Rabbi_Mendel_Krasnjanski_How_To_Explain_Ben_Zoimo_jYpXuzl4KkE.mp3",
+    description: "The diffrence between the Mitzvah to rember leaving mitzryim throughout the year and on Pesach",
+    tags: "Holidays Pesach Mitzrayim",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
+    title: "Women & Haggadah",
+    url: "audio/kraz/y2mate_com_Rabbi_Mendel_Krasnjanski_Women_&_Haggadah,_The_Big_Conundrum.mp3",
+    description: " ",
+    tags: "Holidays Pesach Women",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
     title: "The Backstory of Purim",
     url: "audio/kraz/backstory of purim 2020.mp3",
     description: "The events leading up to the the story of Purim",

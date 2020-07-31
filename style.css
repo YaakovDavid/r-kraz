@@ -52,10 +52,23 @@ header {
 
 li {
   padding: 10px 20px;
-  background-color: #f9ffff;
+  /* background-color: #f9ffff; */
+  background-color: #f1f3f4;
   border-radius: 2%;
-  border: 1px solid rgb(210, 185, 43);
+  /* border: 1px solid rgb(210, 185, 43); */
   max-height: 55vh;
+  position: relative;
+}
+
+audio {
+  position: absolute;
+  bottom: 0;
+  right: 0px;
+}
+
+.description > p {
+  min-height: 100px;
+  margin-bottom: 5px;
 }
 
 #title {

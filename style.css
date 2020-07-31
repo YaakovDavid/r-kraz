@@ -167,6 +167,7 @@ audio {
   }
   .grid-item {
     padding: 8px 5px;
+    font-size: 15px;
   }
   .band {
     min-height: 50vh;

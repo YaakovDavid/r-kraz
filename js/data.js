@@ -1,6 +1,13 @@
 const audio = [
   {
     artist: "Rabbi Krasnjanski",
+    title: "Parshas Bereshis",
+    url: "audio/kraz/noach.mp3",
+    description: "How did the snake speak with Chava",
+    tags: "animals humans noach snake bereshis chava tree of life nachush shaton satan adam",
+  },
+  {
+    artist: "Rabbi Krasnjanski",
     title: "Pesach Matzah & Maror",
     url: "audio/kraz/Whoever doesn't mention pesach matzah and morar on pesach.mp3",
     description: "Whoever dosn't mention pesach matzah and maror on Pesach hasn't fulfilled their obligation",

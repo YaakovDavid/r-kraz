@@ -1,7 +1,7 @@
 const audio = [
   {
     artist: "Rabbi Krasnjanski",
-    title: "Parshas Bereshis",
+    title: "Parshas Bereshis, Noach",
     url: "audio/kraz/noach.mp3",
     description: "How did the snake speak with Chava",
     tags: "animals humans noach snake bereshis chava tree of life nachush shaton satan adam",
